@@ -1,0 +1,18 @@
+﻿Build started at 12:56 PM...
+------ Build started: Project: Sales_Cube, Configuration: Development ------
+Started Building Analysis Services project: Incremental ....
+Cube [SalesCube] : Avoid cubes with a single dimension.
+Database [Sales_Cube] : The database has no Time dimension. Consider creating one.
+Build complete -- 0 errors, 2 warnings
+------ Deploy started: Project: Sales_Cube, Configuration: Development ------
+Performing an incremental deployment of the 'Sales_Cube' database to the 'localhost' server.
+Generating deployment script...
+   Add Database Sales_Cube
+   Process Database Sales_Cube
+Done
+Error : You cannot deploy the model because the localhost deployment server is not running in multidimensional mode.
+Deploy complete -- 1 errors, 0 warnings
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+========== Build completed at 12:56 PM and took 01.745 seconds ==========
+========== Deploy: 0 succeeded, 1 failed, 0 skipped ==========
+========== Deploy completed at 12:56 PM and took 01.746 seconds ==========

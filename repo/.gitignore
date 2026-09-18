@@ -1,0 +1,13 @@
+# Visual Studio / SSDT junk
+.vs/
+bin/
+obj/
+*.suo
+*.user
+
+# SQL Server backups (too large for Git, restore locally instead)
+*.bak
+
+# OS junk
+.DS_Store
+Thumbs.db

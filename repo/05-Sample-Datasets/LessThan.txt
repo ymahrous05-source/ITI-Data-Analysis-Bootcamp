@@ -1,0 +1,21 @@
+St_Id,St_Fname,St_Lname,St_Address,St_Age,Dept_Id,St_super
+1,Ahmed,Hassan    ,Cairo,20,10,
+2,Amr,Magdy     ,Cairo,21,10,1
+3,Mona,Saleh     ,Cairo,22,10,1
+12,Noha,Omar      ,Cairo,21,40,
+13,Said,,,,40,12
+15,Aly,,,,,
+16,Tamer,,,,,
+17,Ahmed,Abdo      ,,,,
+18,Aya,,,,,
+19,Tamer,,,,,
+20,Kamel,,,,,
+21,Ali,,,,,
+22,Reem,,,,,
+23,ahmed,,,,,
+24,Tamer,,,,,
+25,Nour,,,,,
+26,Kareem,,,,,
+27,Tamer,,,,,
+28,Ali,,,,,
+29,Kareem,,,,,
